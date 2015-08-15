@@ -1,0 +1,1 @@
+docker automated build test
